@@ -1,0 +1,5 @@
+SELECT TOP (1000) [SId]
+      ,[SName]
+      ,[SubName]
+      ,[Marks]
+  FROM [StudentDb].[dbo].[Student]
